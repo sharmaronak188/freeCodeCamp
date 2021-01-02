@@ -1,9 +1,9 @@
 name: Crowdin i18n Download Translations Action
 on:
   workflow_dispatch:
-  #push:
-  #  branches:
-  #    - 'feat/crowdin-upload-and-download-integration-scripts'
+  push:
+    branches:
+      - 'testing-out-new-annotation-with-crowdin-integration-actions'
 
 jobs:
   

@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - crowdin-source
+      - testing-out-new-annotation-with-crowdin-integration-actions
 
 jobs:
   
